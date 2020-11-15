@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dialog2Kasatikova</string>
+    <string name="message">Поменяем фон???</string>
+    <string name="btn">Выбрать фон</string>
+
+    <string name="redColor">#FF0000</string>
+    <string name="yellowColor">#FFFF00</string>
+    <string name="greenColor">#00FF00</string>
+
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зеленый</string>
+</resources>
